@@ -1,20 +1,21 @@
-@media (max-width: 700px){
-    .capa-barra-conteudo{
+@media (max-width: 700px) {
+    .capa-barra-conteudo {
         flex-direction: column;
         text-align: center;
         gap: 16px;
     }
 
-    .capa-lancamento, .capa-plataformas{
+    .capa-lancamento,
+    .capa-plataformas {
         text-align: center;
     }
 
-    .lista-plataformas{
+    .lista-plataformas {
         justify-content: center;
     }
 
-    .card-video-container{
-        aspect-ratio: 4/5;
+    .card-video-container {
+        aspect-ratio: 4 / 5;
         background-position: 30% center;
     }
 }
