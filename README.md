@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="/design/logo-gta6" width="350" />
+  <img alt="Logo" src="/design/logo-gta6.png" width="150" />
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "GTA VI" 🎮🚗
@@ -10,10 +10,10 @@
 
 ## Desing: 
 * Desktop:
-[<p align="center"><img height="400em" src="./src/design/projeto-gtavi-desktop-video.gif" alt="Projeto Grand Theft Auto VI - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-gta6/)<p>
+[<p align="center"><img height="400em" src="/design/projeto-gtavi-desktop-video.gif" alt="Projeto Grand Theft Auto VI - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-gta6/)<p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-gtavi-mobile-video.gif" alt="Projeto Grand Theft Auto VI - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-gta6/)<p>
+[<p align="center"><img width=250 src="/design/projeto-gtavi-mobile.gif" alt="Projeto Grand Theft Auto VI - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-gta6/)<p>
 
 ### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-gta6/" target="_blank">matias-ezequiel-correa.github.io/projeto-gta6/</a>
 
