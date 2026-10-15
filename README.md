@@ -5,7 +5,7 @@
   Matías Ezequiel Correa - Projeto "GTA VI" 🎮🚗
 </h1>
 <p align="center">
-  Este é um projeto pessoal de <a href="https://matias-ezequiel-correa.github.io/projeto-gta6/" target="_blank">Grand Theft Auto VI | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal de <a href="https://matias-ezequiel-correa.github.io/projeto-gta6/" target="_blank">Grand Theft Auto VI | By Matías Correa,</a> uma landing page conceptual, realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
