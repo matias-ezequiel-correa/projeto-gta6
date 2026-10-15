@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="src/design/logo-gta6" width="200" />
+  <img alt="Logo" src="/design/logo-gta6" width="350" />
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "GTA VI" 🎮🚗
