@@ -2,7 +2,7 @@
   <img alt="Logo" src="/design/logo-gta6.png" width="150" />
 </div>
 <h1 align="center">
-  Matías Ezequiel Correa - Projeto "GTA VI" 🎮🚗
+  Matías Ezequiel Correa - Projeto "GTA VI" Concept 🎮🚗
 </h1>
 <p align="center">
   Este é um projeto pessoal de <a href="https://matias-ezequiel-correa.github.io/projeto-gta6/" target="_blank">Grand Theft Auto VI | By Matías Correa,</a> uma landing page conceptual, realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
